@@ -1,4 +1,5 @@
 ### Swift Engineer Open to work!
+<img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/EzraBlackIntro.gif?raw=true"/>
 
 <!--
 **Ezra-Black/Ezra-Black** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
