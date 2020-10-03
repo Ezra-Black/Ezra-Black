@@ -1,6 +1,8 @@
 ### Swift Engineer Open to work!
 <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/EzraBlackIntro.gif?raw=true"/>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ezra-Black&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on building out my portfolio. I have worked extensively with numerous teams and am excited to find more open source to colloborate with.
 
 <!--
