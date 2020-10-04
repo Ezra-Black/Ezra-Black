@@ -1,7 +1,15 @@
 ### Swift Engineer Open to work!
+<a href="https://twitter.com/Ezra_Black_">
+  <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ezra-black-6a2597182">
+  <img align="center" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/EzraBlackIntro.gif?raw=true"/>
 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ezra-Black&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - Write efficient, maintainable and reusable code prioritizing privacy and security
 - Write technical documents, user guides and support documentation
