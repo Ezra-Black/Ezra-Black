@@ -3,7 +3,7 @@
 
   <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/EzraBlackIntro.gif?raw=true"/>
 
-  <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/swift-official.svg" alt="Swift">
+
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 
@@ -17,6 +17,11 @@
 - Developed front-end Mobile UI and back-end mobile services
 
 
+<p align="center">
+  
+<img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/swift-official.svg" alt="Swift">
+
+</p>
 <p align="center">
 <a href="https://twitter.com/Ezra_Black_">
   <img align="center" alt="Abhishek Naidu | Twitter" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
