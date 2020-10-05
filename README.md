@@ -1,8 +1,8 @@
-<p align="center">
+
 
 ### Swift Engineer Open to work!
 
-</p>
+
 
 <p align="center">
   
@@ -12,9 +12,11 @@
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-
+<p align="center">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ezra-Black&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 
 - Write efficient, maintainable and reusable code prioritizing privacy and security
