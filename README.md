@@ -1,7 +1,9 @@
+<p align="center">
+
 ### Swift Engineer Open to work!
 
 
-<p align="center">
+
   <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/EzraBlackIntro.gif?raw=true"/>
 
   <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/swift-official.svg" alt="Swift">
