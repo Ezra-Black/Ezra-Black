@@ -1,8 +1,14 @@
+<p align="center">
 
 ### Swift Engineer Open to work!
 
+</p>
+
+<p align="center">
+  
   <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/EzraBlackIntro.gif?raw=true"/>
 
+</p>
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
