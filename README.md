@@ -24,6 +24,7 @@
 - Adapt existing methods and procedures to create specialized solutions to intricate software problems
 - Developed front-end Mobile UI and back-end mobile services
 
+- 🌱 I’m currently learning AR Development along with geospatial Frameworks utilizing iPadOS to help accelerate and benefit Agricultural technologies
 
 <p align="center">
   
@@ -46,7 +47,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
