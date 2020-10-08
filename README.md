@@ -1,6 +1,6 @@
 
 
-### Swift Engineer Open to work!
+### Swift Engineer Open to work! Focusing on getting accepted into the Twitter Apprenticeship Program.
 
 
 
