@@ -27,8 +27,6 @@
 - 🌱 I’m currently learning AR Development along with geospatial Frameworks utilizing iPadOS to help accelerate and benefit Agricultural technologies
 
 <p align="center">
-  
-<img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/swift-official.svg" alt="Swift">
 
 </p>
 <p align="center">
