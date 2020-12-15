@@ -26,6 +26,8 @@
 
 - 🌱 I’m currently learning AR Development along with geospatial Frameworks utilizing iPadOS to help accelerate and benefit Agricultural technologies
 
+- You can tip me a coffee here 👉 https://www.buymeacoffee.com/EzraBlack 👈 
+
 <p align="center">
 
 </p>
