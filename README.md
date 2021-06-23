@@ -28,7 +28,7 @@
 
 - Like my work? Did I fix a bug for ya? You can buy me a coffee here 👉 https://www.buymeacoffee.com/EzraBlack 👈 
 
-- You can also find me at http://wwww.ezrablack.dev!
+- You can also find me at http://ezrablack.dev!
 
 <p align="center">
 
