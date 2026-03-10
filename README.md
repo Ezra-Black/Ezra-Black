@@ -13,16 +13,6 @@
 </p>
 
 
-- Write efficient, maintainable and reusable code prioritizing privacy and security
-- Write technical documents, user guides and support documentation
-- Adapt existing methods and procedures to create specialized solutions to intricate software problems
-- Developed front-end Mobile UI and back-end mobile services
-
-- 🌱 I’m currently learning AR Development along with geospatial Frameworks utilizing iPadOS to help accelerate and benefit Agricultural technologies
-
-- Like my work? Did I fix a bug for ya? You can buy me a coffee here 👉 https://www.buymeacoffee.com/EzraBlack 👈 
-
-- You can also find me at http://ezrablack.dev!
 
 <p align="center">
 
