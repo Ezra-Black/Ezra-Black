@@ -1,43 +1,72 @@
-<p align="center">
-  
-  <img src="https://github.com/Ezra-Black/Ezra-Black/blob/master/EzraBlackIntro.gif?raw=true"/>
+<div align="center">
 
-</p>
+# 👋 Hey, I'm Ezra Black
 
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+### Mobile Software Engineer · Automation Architect · Quality Advocate
 
-<p align="center">
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ezra-Black&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Website](https://img.shields.io/badge/Website-EzraBlack.dev-2ea043?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ezrablack.dev)
+[![Email](https://img.shields.io/badge/Email-dev.ezrablack%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ezrablack@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@Ezra_black_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ezra_black_)
 
-</p>
+---
 
+</div>
 
+## 🧭 What I Do
 
-<p align="center">
+I build and protect **revenue-critical systems**—the kind that move **$150M+ in daily transactions** without breaking. I specialize in:
 
-</p>
-<p align="center">
-<a href="https://twitter.com/Ezra_Black_">
-  <img align="center" alt="Abhishek Naidu | Twitter" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ezra-black-6a2597182">
-  <img align="center" alt="Abhishek's LinkdeIN" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
+- **Scalable automation architecture** — From XCUITest to Cypress, Selenium, and Cucumber (BDD), I design frameworks that scale with the product.
+- **CI/CD & release engineering** — Automated regression, smoke testing, and release gating so production stays stable across global markets.
+- **Cross-functional leadership** — War rooms, NPI quality strategy, and building high-performing QA and automation teams.
+- **Inclusive engineering** — I founded and led an **Accessibility Ambassador Program** to embed inclusive practices across the business.
 
+*Zero production failures attributable to test coverage gaps* isn’t luck—it’s the outcome of the systems I design.
 
-<!--
-**Ezra-Black/Ezra-Black** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech & Tools
 
+| **Automation & QA** | **Mobile & Frontend** | **Infra & DevOps** |
+|:-------------------:|:--------------------:|:------------------:|
+| XCUITest · Cypress  | iOS · Swift          | CI/CD · Jenkins    |
+| Selenium · Cucumber | React Native · Expo  | Firebase · MySQL   |
+| Tricentis Tosca     | JavaScript · JSX     | Secure infra       |
 
+---
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 Where I've Been
+
+- **Lead SDET / iOS Automation Architect** @ [T-Mobile](https://www.t-mobile.com) *(Feb 2022 – Jan 2026)*  
+  Quality engineering for front-end commerce, enterprise automation frameworks, international production releases, and accessibility advocacy.
+
+- **iOS Software Engineer & Owner** @ **Casanova Studios** *(2015 – Present)*  
+  Shipping independent apps on the App Store and providing production engineering + SDET consulting.
+
+- **Lead Engineer** @ **KTS LLC** *(2018 – 2020)*  
+  Secure server-side infrastructure for confidential criminal justice data; Firebase auth, MySQL, React Native solutions.
+
+---
+
+## 🎓 Background
+
+- **Computer Science** — Lambda School  
+- **HS Diploma** — East Alton Wood River High School  
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to talking about **mobile engineering**, **automation strategy**, **quality at scale**, or **accessibility in product**. Reach out:
+
+- **Portfolio:** [EzraBlack.dev](https://www.ezrablack.dev)
+- **Email:** [dev.ezrablack@gmail.com](mailto:dev.ezrablack@gmail.com)
+- **Twitter:** [@Ezra_black_](https://twitter.com/Ezra_black_)
+
+---
+
+<div align="center">
+
+*Building systems that don’t break when it matters.*
+
+</div>
