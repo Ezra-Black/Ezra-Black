@@ -59,7 +59,6 @@ I build and protect **revenue-critical systems**—the kind that move **$150M+ i
 
 I'm always open to talking about **mobile engineering**, **automation strategy**, **quality at scale**, or **accessibility in product**. Reach out:
 
-- **Portfolio:** [EzraBlack.dev](https://www.ezrablack.dev)
 - **Email:** [dev.ezrablack@gmail.com](mailto:dev.ezrablack@gmail.com)
 - **Twitter:** [@Ezra_black_](https://twitter.com/Ezra_black_)
 
