@@ -4,7 +4,7 @@
 
 ### Mobile Software Engineer · Automation Architect · Quality Advocate
 
-[![Website](https://img.shields.io/badge/Website-EzraBlack.dev-2ea043?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ezrablack.dev)
+[![Website](https://img.shields.io/badge/Website-DarkRoom-2ea043?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.ezrablack.dev](https://obscura.darkroom.com))
 [![Email](https://img.shields.io/badge/Email-dev.ezrablack%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ezrablack@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@Ezra_black_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ezra_black_)
 
